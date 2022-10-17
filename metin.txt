@@ -1,0 +1,8 @@
+Hello World
+nano editoruyle degisiklik yaptim
+son degisiklik
+staging area'dan working directory ye alarak duzenleme yaptim
+ikinci versiyonum icin duzenlemeler yapiyorum
+
+Git hub repom'a lokalimden push yapacağım.
+
